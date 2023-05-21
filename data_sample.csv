@@ -1,0 +1,155 @@
+﻿Date,Categories,Description,Amount,Person
+01/29/2023,Transport,Uber,80,Nicole
+01/29/2023,Dineout,Dinner,44,Kevin
+01/29/2023,Groceries ,Metro,82.85,Nicole
+01/30/2023,Groceries ,Metro,121.64,Nicole
+01/30/2023,Groceries ,Dollarama,11.3,Nicole
+01/30/2023,Groceries ,H Mart,18.77,Kevin
+01/31/2023,Income,Salary,2920,Nicole
+01/31/2023,Groceries ,Metro,4.65,Kevin
+01/31/2023,Income,Salary,2920,Kevin
+01/31/2023,Dineout,Ramen,42,Kevin
+01/31/2023,Groceries ,Loblaws,11.3,Kevin
+02/02/2023,Dineout,Ramen,69.51,Nicole
+02/03/2023,Groceries ,Loblaws,111.07,Kevin
+02/03/2023,Groceries ,H Mart,32.29,Nicole
+02/03/2023,Groceries ,Dollarama,7.06,Nicole
+02/03/2023,Furniture,Pillows and Cover,264.42,Kevin
+02/03/2023,Furniture,Mattress,115,Kevin
+02/04/2023,Groceries ,Metro,10.97,Kevin
+02/04/2023,Beauty,Skincare,23.93,Nicole
+02/04/2023,Dineout,Coffee and Cake,17.47,Nicole
+02/04/2023,Furniture,Cups,17.97,Kevin
+02/05/2023,Dineout,Korean Food,95,Nicole
+02/06/2023,Beauty,Skincare,15.24,Nicole
+02/07/2023,Miscellaneous,Tenant Insurance,420.12,Kevin
+02/07/2023,Transport,Car Rental,150,Nicole
+02/07/2023,Transport,Car Rental,437.6,Kevin
+02/07/2023,Household,Canadian Tire,35.01,Kevin
+02/07/2023,Furniture,Ikea,70.01,Kevin
+02/07/2023,Dineout,Hotpot,110,Nicole
+02/07/2023,Groceries ,T&T,78.98,Kevin
+02/08/2023,Groceries ,Metro,52.71,Kevin
+02/08/2023,Groceries ,Metro,5.64,Kevin
+02/09/2023,Miscellaneous,Bank Draft Fee,19.9,Nicole
+02/09/2023,Furniture,Mattress ,986.75,Nicole
+02/09/2023,Furniture,Duvet and Cover,580.82,Nicole
+02/09/2023,Furniture,Dinning Table,313,Nicole
+02/09/2023,Furniture,Coffee Table,264.41,Nicole
+02/09/2023,Furniture,Sofa,1015.87,Kevin
+02/09/2023,Furniture,Bed Frame,450.87,Kevin
+02/10/2023,Groceries ,Costco,300,Nicole
+02/10/2023,Furniture,TV,1249.99,Nicole
+02/10/2023,Furniture,Bed Sheet,374,Nicole
+02/10/2023,Furniture,Hair Dryer,259.89,Nicole
+02/10/2023,Furniture,Rice Cooker,101.68,Nicole
+02/11/2023,Furniture,Ikea,49.7,Kevin
+02/11/2023,Household,Candian Tire,152.48,Nicole
+02/11/2023,Groceries ,Metro,14.1,Kevin
+02/12/2023,Household,Canadian Tire,297.1,Kevin
+02/12/2023,Furniture,Ikea,670.15,Kevin
+02/12/2023,Rent,Rent,1375,Kevin
+02/12/2023,Rent,Rent,1375,Nicole
+02/12/2023,Household,Loblows,143.25,Kevin
+02/12/2023,Dineout,Lunch,50.68,Nicole
+02/12/2023,Household,Loblaws,16.94,Kevin
+02/12/2023,Dineout,Mcdonald's,35.67,Kevin
+02/13/2023,Furniture,Structube,352.56,Kevin
+02/13/2023,Household,Canadian Tire,38.41,Kevin
+02/13/2023,Furniture,Ikea,575.1,Kevin
+02/13/2023,Dineout,Lunch,27.28,Kevin
+02/14/2023,Dineout,Dinner,70.6,Nicole
+02/14/2023,Furniture,Ikea,381.75,Kevin
+02/14/2023,Kitchen,Cooking Pot,308.48,Nicole
+02/14/2023,Furniture,Office Chairs,524.85,Nicole
+02/14/2023,Furniture,TV Stand,203.6,Nicole
+02/14/2023,Furniture,Table Top,56.5,Kevin
+02/15/2023,Income,Salary,2920,Nicole
+02/15/2023,Income,Salary,2920,Kevin
+02/15/2023,Transport,Gas,37.56,Nicole
+02/16/2023,Transport,Parking Fee,16,Nicole
+02/16/2023,Groceries ,Loblaws ,168.02,Kevin
+02/18/2023,Dineout,Dessert,28.6,Nicole
+02/18/2023,Groceries ,Dollarama,7.91,Kevin
+02/21/2023,Groceries ,Loblaws ,155.42,Kevin
+02/21/2023,Miscellaneous,Amazon Purchase,219.75,Nicole
+02/22/2023,Transport,Uber,50.29,Nicole
+02/23/2023,Household,Shoppers ,28.53,Kevin
+02/23/2023,Groceries ,Loblaws ,53.44,Kevin
+02/24/2023,Miscellaneous,Amazon Purchase,58.74,Nicole
+02/25/2023,Groceries ,Loblaws,65.49,Nicole
+02/25/2023,Groceries ,LCBO,22.95,Nicole
+02/26/2023,Furniture,Printer,154.23,Kevin
+02/27/2023,Entertainment,Movie Tickets,22.04,Kevin
+02/27/2023,Dineout,Lunch,44.63,Nicole
+02/28/2023,Dineout,Smoothie,8.46,Nicole
+02/28/2023,Income,Salary,2920,Kevin
+02/28/2023,Income,Salary,2920,Nicole
+02/28/2023,Dineout,Fried Chicken,41.22,Kevin
+02/28/2023,Transport,Highway Tolls,46.34,Nicole
+03/01/2023,Groceries ,Loblaws,150.85,Kevin
+03/05/2023,Household,Amazon Purchase,425.98,Nicole
+03/06/2023,Groceries ,LCBO,10.1,Nicole
+03/06/2023,Groceries ,Loblaws,173.63,Nicole
+03/08/2023,Household,Loblaws,5.64,Kevin
+03/08/2023,Household,Shoppers,30.81,Kevin
+03/08/2023,Dineout,Lunch,79.26,Kevin
+03/09/2023,Groceries ,Loblaws,6.99,Nicole
+03/10/2023,Groceries ,Pusateri's,62.24,Kevin
+03/10/2023,Groceries ,LCBO,11.5,Kevin
+03/11/2023,Kitchen,Hotpot Pot,37.27,Kevin
+03/12/2023,Rent,Rent,1375,Nicole
+03/12/2023,Rent,Rent,1375,Kevin
+03/12/2023,Household,Canadian Tire,119.95,Kevin
+03/13/2023,Groceries ,Coffee Bean,48.65,Nicole
+03/13/2023,Furniture,Ikea ,132.24,Nicole
+03/14/2023,Groceries ,Loblaws,80.91,Nicole
+03/14/2023,Transport,Uber,44.08,Nicole
+03/15/2023,Income,Salary,2920,Kevin
+03/15/2023,Income,Salary,2920,Nicole
+03/17/2023,Groceries ,FreshCo,64.73,Kevin
+03/17/2023,Dineout,Forest Café,25.43,Nicole
+03/19/2023,Groceries ,Loblaws,64,Nicole
+03/20/2023,Groceries ,Coffee Bean,99,Nicole
+03/22/2023,Furniture,Ikea ,201.65,Nicole
+03/22/2023,Household,Canadian Tire,34.78,Nicole
+03/23/2023,Groceries ,Loblaws,159.62,Kevin
+03/25/2023,Dineout,Lunch,134,Nicole
+03/28/2023,Groceries ,Loblaws,113.5,Kevin
+03/31/2023,Income,Salary,2920,Kevin
+03/31/2023,Dineout,Lunch,40,Kevin
+03/31/2023,Dineout,Dinner,13.11,Kevin
+03/31/2023,Income,Salary,2920,Nicole
+04/02/2023,Groceries ,Loblaws,35.14,Nicole
+04/04/2023,Groceries ,Dollarama,9.04,Kevin
+04/04/2023,Entertainment,Movie Tickets,22.04,Kevin
+04/04/2023,Dineout,Lunch,30,Nicole
+04/04/2023,Groceries ,Loblaws,12.29,Nicole
+04/07/2023,Dineout,Lunch,206.62,Kevin
+04/08/2023,Groceries ,Loblaws,175.34,Nicole
+04/12/2023,Rent,Rent,1375,Kevin
+04/12/2023,Rent,Rent,1375,Nicole
+04/14/2023,Groceries ,Loblaws,104.98,Kevin
+04/14/2023,Household,Canadian Tire,48.09,Kevin
+04/15/2023,Income,Salary,2920,Nicole
+04/15/2023,Income,Salary,2920,Kevin
+04/17/2023,Miscellaneous,Costco Membership,135.6,Nicole
+04/18/2023,Groceries ,Costco,219.07,Nicole
+04/18/2023,Groceries ,T&T,105.67,Kevin
+04/18/2023,Dineout,Lunch,34,Nicole
+04/19/2023,Groceries ,No Frills,44.34,Kevin
+04/19/2023,Household,Cooler,67.78,Kevin
+04/20/2023,Beauty,Skincare,151.99,Nicole
+04/20/2023,Transport,Parking Fee,2.5,Nicole
+04/20/2023,Transport,Parking Fee,10,Kevin
+04/20/2023,Groceries ,Loblaws,36.28,Kevin
+04/20/2023,Groceries ,Shoppers,12.41,Kevin
+04/22/2023,Dineout,Dinner,32.21,Nicole
+04/24/2023,Dineout,Lunch,61.96,Nicole
+04/25/2023,Groceries ,Freshway Supermarket,72.51,Nicole
+04/25/2023,Dineout,Lunch,20,Nicole
+04/26/2023,Groceries ,Costco,235.43,Kevin
+04/27/2023,Groceries ,Loblaws,28.98,Kevin
+04/29/2023,Groceries ,Hong Tai Asian Supermarket,46.16,Nicole
+04/30/2023,Income,Salary,2920,Kevin
+04/30/2023,Income,Salary,2920,Nicole
