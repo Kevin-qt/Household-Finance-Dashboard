@@ -1,4 +1,5 @@
 -- Trigger for updating Balance column in accounts table
+
 DELIMITER //
 
 CREATE TRIGGER update_balance
