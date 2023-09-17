@@ -13,11 +13,11 @@ The project start with designing a database to store all relevant information of
 
 _ERD Diagram:_
 
-![erd image](https://github.com/Kevin-qt/Household-Finance-Dashboard/blob/child/erd.jpg)
+![erd image](https://github.com/Kevin-qt/Household-Finance-Dashboard/blob/main/erd.jpg)
 
 **2. ETL <br>**
-Then, we use python to perform the ETL process to load and cleanse data from the original csv log into our new database. <br>
-<[ETL notebook](etl.ipynb)><br>
+Then, we use Apache Airflow and Python to schedule ETL workflow to load and cleanse data from the latest csv log into our database in a weekly manner.<br>
+<[ETL with Airflow](airflow_etl.py)><br>
 
 **3. Data Modeling <br>**
 Before creating the dashboard, we model our data by creating a new view in the database. <br>
@@ -28,4 +28,4 @@ The final step is to load our view into PowerBI and create the dashboard. <br>
 <[BI Dashboard](dashboard.pbit)><br>
 
 _Dashboard Preview:_
-![preview](https://github.com/Kevin-qt/Household-Finance-Dashboard/blob/child/dashboard_preview.jpg)
+![preview](https://github.com/Kevin-qt/Household-Finance-Dashboard/blob/main/dashboard_preview.jpg)
