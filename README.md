@@ -1,6 +1,6 @@
 # Household Finance Dashboard
 
-## Project Statement
+### Project Statement
 To unlock financial insights that were invisible before budget and savings planning.
 
 ### Objective <br>
@@ -16,7 +16,11 @@ _ERD Diagram:_
 ![erd image](https://github.com/Kevin-qt/Household-Finance-Dashboard/blob/main/erd.jpg)
 
 **2. ETL <br>**
-Then, we use Apache Airflow and Python to schedule ETL workflow to load and cleanse data from the latest csv log into our database in a weekly manner.<br>
+Then, we use Apache Airflow and Python to schedule ETL workflow to pass data from the latest csv log into our database in a daily manner.<br>
+
+_Workflow:_
+![workflow image](https://github.com/Kevin-qt/Household-Finance-Dashboard/blob/main/workflow.jpg)
+
 <[ETL with Airflow](airflow_etl.py)><br>
 
 **3. Data Modeling <br>**
