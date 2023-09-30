@@ -29,7 +29,7 @@ Before creating the dashboard, we model our data by creating a new view in the d
 
 **4. Creating Dashboard in PowerBI <br>**
 The final step is to load our view into PowerBI and create the dashboard. <br>
-<[BI Dashboard](dashboard.pbit)><br>
+[View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzk4M2M5YzgtYmI4MS00NzFjLTgzNTEtNDA0ZjFhOWRjMzhlIiwidCI6IjdkMjRjMTUwLWQwNjUtNGRjZS1hMmZmLWU1Y2M5ODM5ZDNmNSJ9) <br>
 
 _Dashboard Preview:_
 ![preview](https://github.com/Kevin-qt/Household-Finance-Dashboard/blob/main/dashboard_preview.jpg)
