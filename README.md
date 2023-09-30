@@ -32,4 +32,4 @@ The final step is to load our view into PowerBI and create the dashboard. <br>
 [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTM1OWJjOTEtNTVmNi00ZGJlLTkwNmQtOTMxNDEyNDQzYzk3IiwidCI6IjdkMjRjMTUwLWQwNjUtNGRjZS1hMmZmLWU1Y2M5ODM5ZDNmNSJ9) <br>
 
 _Dashboard Preview:_
-![preview](https://github.com/Kevin-qt/Household-Finance-Dashboard/blob/main/preview.jpg)
+![preview](preview.jpg)
